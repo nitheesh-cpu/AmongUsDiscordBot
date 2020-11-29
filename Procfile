@@ -1,0 +1,1 @@
+worker: java -jar target/DiscordBot-1.9.jar
